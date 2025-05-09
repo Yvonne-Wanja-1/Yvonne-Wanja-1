@@ -42,9 +42,30 @@
   <a href="mailto:wanguiyvonne333@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
+
+
+
+github profile markdown generator logo
+
+<h1 align="center">Hi 👋, I'm Yvonne Wanja</h1>
+<h3 align="center">A passionate Mobile App developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yvonne-wanja-1&label=Profile%20views&color=0e75b6&style=flat" alt="yvonne-wanja-1" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yvonne-wanja-1" alt="yvonne-wanja-1" /></a> </p>
+
+- 🔭 I’m currently working on **E-commerce app**
+
+- 🌱 I’m currently learning **Flutter authentication**
+
+- 💬 Ask me about **Mobile app development**
+
+- 📫 How to reach me **wanguiyvonne333@gmail.com**
+
+- ⚡ Fun fact **I am a rated chess player!!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 </div>
-
-
-
-
-###
