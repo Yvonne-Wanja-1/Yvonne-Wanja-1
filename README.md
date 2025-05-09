@@ -1,4 +1,27 @@
-<div align="center">
+
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm Yvonne Wanja</h1>
+<h3 align="center">A passionate Mobile App developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yvonne-wanja-1&label=Profile%20views&color=0e75b6&style=flat" alt="yvonne-wanja-1" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yvonne-wanja-1" alt="yvonne-wanja-1" /></a> </p>
+
+- 🔭 I’m currently working on **E-commerce app**
+
+- 🌱 I’m currently learning **Flutter authentication**
+
+- 💬 Ask me about **Mobile app development**
+
+- 📫 How to reach me **wanguiyvonne333@gmail.com**
+
+- ⚡ Fun fact **I am a rated chess player!!**
+
+- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yvonne-Wanja-1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yvonne-Wanja-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -28,7 +51,7 @@
 ###
 
 ###
-
+<h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/yvonne-wangui-77510b285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -44,27 +67,6 @@
   </a>
 
 
-
-github profile markdown generator logo
-
-<h1 align="center">Hi 👋, I'm Yvonne Wanja</h1>
-<h3 align="center">A passionate Mobile App developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yvonne-wanja-1&label=Profile%20views&color=0e75b6&style=flat" alt="yvonne-wanja-1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yvonne-wanja-1" alt="yvonne-wanja-1" /></a> </p>
-
-- 🔭 I’m currently working on **E-commerce app**
-
-- 🌱 I’m currently learning **Flutter authentication**
-
-- 💬 Ask me about **Mobile app development**
-
-- 📫 How to reach me **wanguiyvonne333@gmail.com**
-
-- ⚡ Fun fact **I am a rated chess player!!**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
